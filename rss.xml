@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Hott's BBQ]]></title>
         <description><![CDATA[Hott's BBQ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hotts-bbq/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 08:47:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 26 Jun 2016 08:49:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hotts-bbq/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/608c3f0e-526a-4766-8faa-08d80bd1b0a7.jpg">]]></description>
+            <link>https://thegrid.ai/hotts-bbq/90c517bd-f53a-46c9-b34d-ec8a389e311a/index.html</link>
+            <guid isPermaLink="false">90c517bd-f53a-46c9-b34d-ec8a389e311a</guid>
+            <pubDate>Sun, 26 Jun 2016 08:49:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4202b31f-0626-442e-88d6-18a28886d742.jpg">]]></description>
-            <link>undefined5737ea7d-eab2-4828-a735-32b54aa11633/index.html</link>
+            <link>https://thegrid.ai/hotts-bbq/5737ea7d-eab2-4828-a735-32b54aa11633/index.html</link>
             <guid isPermaLink="false">5737ea7d-eab2-4828-a735-32b54aa11633</guid>
             <pubDate>Sun, 26 Jun 2016 08:46:11 GMT</pubDate>
         </item>
