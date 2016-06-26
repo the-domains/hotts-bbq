@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-26T08:44:14.449Z'
+datePublished: '2016-06-26T08:44:19.272Z'
 sourcePath: _posts/2016-04-16-valkyrie-house-old-fashioned-recipe.md
 inFeed: true
 isBasedOnUrl: 'http://cooking.nytimes.com/recipes/1017994-valkyrie-house-old-fashioned'
@@ -17,7 +17,7 @@ keywords:
   - polyunsaturated
 related: []
 author: []
-dateModified: '2016-06-26T08:44:14.112Z'
+dateModified: '2016-06-26T08:44:19.030Z'
 title: Valkyrie House Old-Fashioned Recipe
 app_links: []
 publisher:
@@ -30,7 +30,7 @@ description: >-
   York Times - Dining - Food.
 inLanguage: en
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
